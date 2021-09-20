@@ -408,3 +408,26 @@
 
 <br>
 
+<br>
+
+# IoT 프로젝트
+
+## 개발 환경
+
+### ROS
+
+- ROS eloquent (20200124 release)
+- python 3.7.5
+- openssl 1.0.2u
+- choco 0.10.15
+- opencv 3.4.6
+- choco 0.10.15
+- opencv 3.4.6
+- rti 5.3.1
+- opensplice 6.9.190403
+
+### tensorflow
+
+- tensorflow 1.15
+- CUDA Toolkit 10.0
+- cnDNN 7.6.4
