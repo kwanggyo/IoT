@@ -499,6 +499,37 @@
 
 <br>
 
+# A Star
+
+## Step
+
+### Step 1
+
+도착한 Node는 Close state
+
+### Step 2 
+
+주변 Node 탐색, State 따라
+
+- EMPTY → OPEN state
+- BLOCK → Nothing, (대각선 Node 포함)
+- CLOSE → Nothing
+- OPEN
+  - G 값이 작다 → 부모 Node 바꿈
+  - G 값이 크다 → Nothing
+
+### Step 3
+
+Open Node 중, 최소 F값 Node로 이동
+
+- Open node가 한 개도 없다면 막힌 것
+
+- G : 출발지에서 이동한 거리
+- H : 도착점까지 남은 거리(Manhattan distance)
+- F = G + H
+
+<br>
+
 # IoT 프로젝트
 
 ## 개발 환경
