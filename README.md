@@ -717,3 +717,9 @@ MySQL과 비교하여 MongoDB가 갖는 장점
 - `rb`, `wb`, `ab`, `rb+`, `wb+`, `ab+`: 각각의 모드들은 위와 동일하나 Binary 포맷으로 읽거나 쓰는걸 진행한다.
 - 참고 : https://twpower.github.io/17-with-usage-in-python
 
+<br>
+
+# `10.05`
+
+- 프로젝트 하다가 1일1커밋을 놓쳐버렸다..ㅠㅠㅠㅠ
+
